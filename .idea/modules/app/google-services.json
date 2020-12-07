@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927339181450",
+    "firebase_url": "https://ladmu3firebase-f82b5.firebaseio.com",
+    "project_id": "ladmu3firebase-f82b5",
+    "storage_bucket": "ladmu3firebase-f82b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927339181450:android:8401646771c3b03d6a4473",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_ejercicio3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927339181450-ra376gt8cdn245ecq959ph14nskp5oiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.tecnm.tepic.ladm_u3_ejercicio3",
+            "certificate_hash": "2cf935b7fe96951e731f8fc7dfe2db5f35592f4b"
+          }
+        },
+        {
+          "client_id": "927339181450-otrcs7qrhn0ie5daq8k2r1h14s49t6in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmmZQAoCXjGfB76BmhBvvKrlbvnpCSN_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927339181450-otrcs7qrhn0ie5daq8k2r1h14s49t6in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
